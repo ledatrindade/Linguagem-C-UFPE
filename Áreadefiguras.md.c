@@ -12,7 +12,6 @@ int main(){
         printf("Entrada invalida!");
        exit(0);
     }
-    
   
     if (letra=='C' || letra=='c'){
         resultado=3.14*n*n;
@@ -28,7 +27,6 @@ int main(){
         resultado=n*n*1.7/4;
         printf("%.2f\nTriangulo equilatero", resultado);
     }
-    
     
     else { printf("Entrada invalida!");}
     
