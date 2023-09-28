@@ -1,2 +1,2 @@
 ## Linguagem C - UFPE
-Aqui estão algumas das atividades mais significativas realizadas no âmbito da disciplina de programação em linguagem C.
+Aqui estão algumas das atividades mais relevantes que desempenhei durante o meu percurso na disciplina de Programação em Linguagem C.
