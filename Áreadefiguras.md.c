@@ -29,6 +29,5 @@ int main(){
     }
     
     else { printf("Entrada invalida!");}
-    
     return 0;
     }
