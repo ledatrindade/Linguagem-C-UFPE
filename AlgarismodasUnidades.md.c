@@ -7,6 +7,3 @@ int main(){
     return 0;
 }
 
-RESULTADO:
-Entrada(s) para teste: 3872 	
-Saída do programa: 2	
