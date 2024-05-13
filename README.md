@@ -16,6 +16,6 @@ Este repositório contém uma série de programas em C que visam a prática de c
 
 Para usar qualquer um dos programas, basta compilá-lo com um compilador C compatível e executar o binário resultante.
 
-## Autora 🚀
+## Autora 👩‍💻
 
 - **Nome**: Lêda Trindade
